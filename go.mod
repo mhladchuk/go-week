@@ -1,6 +1,6 @@
-module github.com/stoewer/go-week
+module github.com/mhladchuk/go-week
 
-go 1.11
+go 1.16
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
